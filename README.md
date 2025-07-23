@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Mohammad Reza</h1>
 
 <p align="center">
-  🎨 Graphic Designer &nbsp;|&nbsp; 🧩 WordPress Shortcode Developer &nbsp;|&nbsp; 💡 Creative Thinker
+  🎨 Graphic Designer & Editor &nbsp;|&nbsp; 🧩 WordPress Shortcode Developer &nbsp;|&nbsp; 💡 Creative Thinker
 </p>
 
 <p align="center">
