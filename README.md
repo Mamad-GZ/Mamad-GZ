@@ -15,7 +15,7 @@
 - 🎨 I'm a **graphic designer** who also loves playing around with **code**
 - 🧩 Creating a collection of powerful and flexible custom codes
 - 🌱 Always exploring better ways to blend design with functionality
-- 💬 Ask me about: **Photoshop**, **After Effects**, **Illustrator** or **WordPress**
+- 💬 Ask me about: **Photoshop**, **After Effects**, **Illustrator** or **Programming**
 - ⚡ Fun Fact: Simplicity in design is harder than complexity!
 
 ---
