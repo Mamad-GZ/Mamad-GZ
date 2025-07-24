@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Mohammad Reza</h1>
 
 <p align="center">
-  🎨 Graphic Designer & Editor &nbsp;|&nbsp; 🧩 WordPress Shortcode Developer &nbsp;|&nbsp; 💡 Creative Thinker
+  🎨 Graphic Designer & Editor &nbsp;|&nbsp; 💻 Just-for-fun dev &nbsp;|&nbsp; 💡 Creative Thinker
 </p>
 
 <p align="center">
@@ -12,10 +12,10 @@
 
 ### 💡 About Me
 
-- 🎨 I'm a **graphic designer** who also develops for **WordPress**
-- 🧩 Creator of the **WordPress Shortcodes Toolkit** — a collection of powerful and flexible custom shortcodes
+- 🎨 I'm a **graphic designer** who also loves playing around with **code**
+- 🧩 Creating a collection of powerful and flexible custom codes
 - 🌱 Always exploring better ways to blend design with functionality
-- 💬 Ask me about: **Photoshop**, **After Effects**, **Illustrator**, **WordPress**, or **shortcode development**
+- 💬 Ask me about: **Photoshop**, **After Effects**, **Illustrator** or **WordPress**
 - ⚡ Fun Fact: Simplicity in design is harder than complexity!
 
 ---
@@ -39,13 +39,6 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
-
----
-
-### 📁 Featured Project
-
-- 🔌 **[WordPress Shortcodes Toolkit](https://github.com/Mamad-GZ/...)**  
-  A flexible and powerful set of shortcodes to customize your WordPress content like a pro.
 
 ---
 
