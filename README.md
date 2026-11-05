@@ -40,16 +40,6 @@ I'm a graphic designer with a passion for technology and creative coding. I enjo
 <img src="https://skillicons.dev/icons?i=html,css,js,php,python,wordpress,git,vscode&theme=dark"/>
 </p>
 
-### GitHub Overview
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mamad-GZ&show_icons=true&hide_border=true&bg_color=090014&title_color=B98AFF&icon_color=65D9FF&text_color=FFFFFF"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamad-GZ&layout=compact&hide_border=true&bg_color=090014&title_color=B98AFF&text_color=FFFFFF"/>
-
-</div>
-
 ---
 
 <div align="center">
