@@ -1,70 +1,61 @@
-<h1 align="center">Hi there 👋, I'm Mohammad Reza</h1>
+ <div align="center">
 
-<p align="center">
-  🎨 Graphic Designer & Editor &nbsp;|&nbsp; 💻 Just-for-fun dev &nbsp;|&nbsp; 💡 Creative Thinker
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090014,50:32105C,100:090014&height=160&section=header&text=MAMAD-GZ&fontSize=55&fontColor=FFFFFF&fontAlignY=50&desc=DESIGN%20%20%2F%2F%20%20CODE%20%20%2F%2F%20%20CREATE&descSize=14&descColor=B98AFF&descAlignY=78" width="100%"/>
 
-<p align="center">
-  Welcome to my GitHub profile!
-</p>
+# Mohammad Reza
 
----
+**Graphic Designer · Video Editor · Creative Developer**
 
-### 💡 About Me
+*Creative mind. Digital world.*
 
-- 🎨 I'm a **graphic designer** who also loves playing around with **code**
-- 🧩 Creating a collection of powerful and flexible custom codes
-- 🌱 Always exploring better ways to blend design with functionality
-- 💬 Ask me about: **Photoshop**, **After Effects**, **Illustrator** or **Programming**
-- ⚡ Fun Fact: Simplicity in design is harder than complexity!
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Mamad-GZ)
+[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=flat-square&logo=telegram)](https://t.me/mamadgz)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mamadgzn@gmail.com)
+
+</div>
 
 ---
 
-### 🛠️ Tools & Skills
+### About Me
 
-#### 🎨 Design
-<p>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat-square&logo=Adobe-Premiere-Pro&logoColor=white" />
-  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=Adobe-After-Effects&logoColor=white" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe-Illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
-</p>
+I'm a graphic designer with a passion for technology and creative coding. I enjoy turning ideas into beautiful visuals, experimenting with code, and building useful custom tools.
 
-#### 💻 Development
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-</p>
+- 🎨 Visual design & digital art
+- 🎬 Video editing & motion graphics
+- 💻 Web development & creative coding
+- 🧩 Custom scripts and tools
+- 🌱 Always learning something new
 
----
+### Creative Toolkit
 
-### 📫 Contact & Social
+**Design & Editing**
 
 <p>
-  <a href="mailto:mamadgzn@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://t.me/mamadgz" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
+<img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,blender&theme=dark"/>
 </p>
 
----
+**Development**
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mamad-GZ&show_icons=true&theme=tokyonight" alt="Mamad-GZ's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mamad-GZ&theme=tokyonight" alt="GitHub Streak" />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,wordpress,git,vscode&theme=dark"/>
 </p>
 
+### GitHub Overview
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mamad-GZ&show_icons=true&hide_border=true&bg_color=090014&title_color=B98AFF&icon_color=65D9FF&text_color=FFFFFF"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamad-GZ&layout=compact&hide_border=true&bg_color=090014&title_color=B98AFF&text_color=FFFFFF"/>
+
+</div>
+
 ---
 
-> _“Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs_
+<div align="center">
 
----
+**LESS NOISE. MORE CREATIVITY.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:32105C,100:090014&height=90&section=footer" width="100%"/>
+
+</div>
