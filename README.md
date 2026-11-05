@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090014,50:32105C,100:090014&height=160&section=header&text=MAMAD-GZ&fontSize=55&fontColor=FFFFFF&fontAlignY=50&desc=DESIGN%20%20%2F%2F%20%20CODE%20%20%2F%2F%20%20CREATE&descSize=14&descColor=B98AFF&descAlignY=78" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:32105C,100:090014&height=200&section=header&text=MAMAD-GZ&fontSize=55&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=DESIGN%20%2F%2F%20CODE%20%2F%2F%20CREATE&descSize=14&descColor=B98AFF&descAlignY=60" width="100%"/>
 
 # Mohammad Reza
 
@@ -16,7 +16,7 @@
 
 ---
 
-### About Me
+### 💡 About Me
 
 I'm a graphic designer with a passion for technology and creative coding. I enjoy turning ideas into beautiful visuals, experimenting with code, and building useful custom tools.
 
@@ -26,15 +26,17 @@ I'm a graphic designer with a passion for technology and creative coding. I enjo
 - 🧩 Custom scripts and tools
 - 🌱 Always learning something new
 
-### Creative Toolkit
+---
 
-**Design & Editing**
+### 🛠️ Creative Toolkit
+
+**🎨 Design & Editing**
 
 <p>
 <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,blender&theme=dark"/>
 </p>
 
-**Development**
+**💻 Development**
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,php,python,wordpress,git,vscode&theme=dark"/>
@@ -44,8 +46,8 @@ I'm a graphic designer with a passion for technology and creative coding. I enjo
 
 <div align="center">
 
-**LESS NOISE. MORE CREATIVITY.**
+### ✦ LESS NOISE. MORE CREATIVITY. ✦
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:32105C,100:090014&height=90&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:32105C,100:090014&height=120&section=footer" width="100%"/>
 
 </div>
